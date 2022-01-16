@@ -1,7 +1,7 @@
 
 // SETTINGS ////////////////////////////////////////////////////////
 var FILE = "DREAM.tw";
-var VIDEO_PATH = "/videos/";
+var VIDEO_PATH = "https://dl.dropbox.com/s/";
 
 //once you reach the end of the clip select the first choice (true)
 //if false disables the bar
